@@ -1,3 +1,5 @@
-                                                                              # Leetcode-Practise
-                                                                              ![fb (2)](https://user-images.githubusercontent.com/74767290/147734163-6bdc6502-a921-429c-8da4-06875b829ad3.jpg)
-                                                                              
+# Leetcode-Practise
+
+
+
+![fb (2)](https://user-images.githubusercontent.com/74767290/147734270-fdc5565c-f08d-4513-b621-6a343ccb3516.jpg)
